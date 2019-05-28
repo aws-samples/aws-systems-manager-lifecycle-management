@@ -1,0 +1,7 @@
+*.tfvars
+.DS_Store
+.terraform
+terraform.tfstate
+.terraform.*
+terraform.tfstate.backup
+workflow/*.zip
